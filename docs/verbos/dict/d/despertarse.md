@@ -1,5 +1,5 @@
 # Despertarse
-(to wake up)
+To wake up   
 ![to wake up](despertarse.png)
 ## Conjugación
 ### Presente

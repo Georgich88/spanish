@@ -1,5 +1,10 @@
 # Jorge Isaev
 
+## Educación
+Mi mujer y yo aprendemos Español juntas.
+
+## Comida y bebida
+Los fines de semana me gusta comer asada carne y beber vino o cerveza.
 
 ## Mi rutina diaria
 Normalmente, yo me despierto a las seit de la manana y me levanto en seguida. No me gusta acostarme en la cama por 

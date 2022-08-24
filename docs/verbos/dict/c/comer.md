@@ -1,6 +1,6 @@
 # Despertarse
 To eat  
-![to eat](comer.jpeg)
+![to eat](img/comer.jpeg)
 ## Conjugación
 ### Presente
 | singular             | plural                      |

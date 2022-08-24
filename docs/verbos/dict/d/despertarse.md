@@ -1,6 +1,6 @@
 # Despertarse
 To wake up   
-![to wake up](despertarse.png)
+![to wake up](img/despertarse.png)
 ## Conjugación
 ### Presente
 | singular                     | plural                              |

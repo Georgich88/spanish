@@ -1,6 +1,6 @@
 # Despertarse
 To owe
-![to owe](deben.jpeg)
+![to owe](img/deben.jpeg)
 ## Conjugación
 ### Presente
 | singular             | plural                      |

@@ -1,8 +1,12 @@
 # Despertarse
+
 To run  
 ![to run](img/correr.png)
+
 ## Conjugación
+
 ### Presente
+
 | singular              | plural                       |
 |-----------------------|------------------------------|
 | yo corro              | nosotros corremos            |
@@ -11,4 +15,5 @@ To run
 | vos te corrés         |                              |
 
 ### Ejemplo
+
 Osvaldo y Pedro me deben mucho dinero.

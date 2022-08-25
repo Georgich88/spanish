@@ -1,8 +1,12 @@
 # Despertarse
+
 To eat  
 ![to eat](img/comer.jpeg)
+
 ## Conjugación
+
 ### Presente
+
 | singular             | plural                      |
 |----------------------|-----------------------------|
 | yo como              | nosotros comemos            |
@@ -11,4 +15,5 @@ To eat
 | vos te comés         |                             |
 
 ### Ejemplo
+
 Osvaldo y Pedro me deben mucho dinero.

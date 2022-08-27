@@ -16,4 +16,4 @@ To cough
 
 ### Ejemplo
 
-Osvaldo y Pedro me deben mucho dinero.
+Si tiene que toser sobre alguien, encuentre un sirviente.

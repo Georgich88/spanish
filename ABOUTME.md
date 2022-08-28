@@ -1,12 +1,13 @@
 # Jorge Isaev
 
 ## ¿Cómo te llamas?
-Me llamo Jorge. Mi apellido es Isaev. 
+
+Me llamo Jorge. Mi apellido es Isaev.
 
 ## Educación
 
 Siempre aprendo porque soy programador.  
-Mi mujer y yo aprendemos Español juntas.  
+Mi mujer y yo aprendemos Español juntas.
 
 ## Deporte
 
@@ -15,7 +16,8 @@ No corro por la mañana.
 
 ## Comida y bebida
 
-Los fines de semana me gusta comer asada carne y beber vino o cerveza.
+Los fines de semana me gusta comer asada carne y beber vino o cerveza. Nosotros a menudo vamos a restaurantes los 
+viernes y sábados. Nosotros no dividimos log gastos, yo casi siempre pago.
 Nunca bebo vino o cerveza durante las horas de trabajo.
 
 ## Mi rutina diaria

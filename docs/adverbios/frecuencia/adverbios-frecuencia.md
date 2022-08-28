@@ -4,24 +4,24 @@ https://www.youtube.com/watch?v=6uO1FiBgG9I&t=2s
 
 ## Formas
 
-| Adverbio                    | Inglés                    |
-|-----------------------------|---------------------------|
-| Nunca, Jamás                | Never                     |
-| Casi nunca                  | Rarely (almost never)     |
-| Raramente                   | Rarely (seldom)           |
-| Rara vez                    | Rarely                    |
-| A veces                     | Sometimes                 |
-| Una vez al día / mes / año  | Once a day / month / year |
-| De vez en cuando            | From time to time         |
-| A menudo                    | Often                     |
-| Frecuentemente              | Frequently                |
-| Con frecuencia              | Frequently                |
-| Normalmente                 | Usually                   |
-| Generalmente                | Usually                   |
-| Casi nunca                  | Almost always             |
-| Siempre                     | Always                    |
-| A todas horas               | At all hours              |
-| En toda momento             | At all times              |
+| Adverbio                   | Inglés                    |
+|----------------------------|---------------------------|
+| Nunca, Jamás               | Never                     |
+| Casi nunca                 | Rarely (almost never)     |
+| Raramente                  | Rarely (seldom)           |
+| Rara vez                   | Rarely                    |
+| A veces                    | Sometimes                 |
+| Una vez al día / mes / año | Once a day / month / year |
+| De vez en cuando           | From time to time         |
+| A menudo                   | Often                     |
+| Frecuentemente             | Frequently                |
+| Con frecuencia             | Frequently                |
+| Normalmente                | Usually                   |
+| Generalmente               | Usually                   |
+| Casi siempre               | Almost always             |
+| Siempre                    | Always                    |
+| A todas horas              | At all hours              |
+| En toda momento            | At all times              |
 
 ### Ejemplo
 

@@ -4,6 +4,11 @@
 
 Mi mujer y yo aprendemos Español juntas.
 
+## Deporte
+
+Aprendo jugar tenis y voy al gimnasio a hacer ejercicio.
+No corro por la mañana.
+
 ## Comida y bebida
 
 Los fines de semana me gusta comer asada carne y beber vino o cerveza.

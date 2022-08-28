@@ -6,7 +6,7 @@
 
 | singular             | plural                      |
 |----------------------|-----------------------------|
-| yo `-o`              | nosotros `-os`              |
+| yo `-o`              | nosotros `-emos`            |
 | tú `-es`             | vosotros `-éis`             |
 | él, ella, usted `-e` | ellos, ellas, ustedes `-en` |
 | vos `-és`            |                             |

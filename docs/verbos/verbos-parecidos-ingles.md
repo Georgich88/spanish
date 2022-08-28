@@ -25,6 +25,7 @@
 | p        |            |
 | q        |            |
 | reparar  | to repair  |
+| rehusar  | to refuse  |
 | sufrir   | suffer     |
 | t        |            |
 | usar     | to use     |

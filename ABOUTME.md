@@ -1,8 +1,12 @@
 # Jorge Isaev
 
+## ¿Cómo te llamas?
+Me llamo Jorge. Mi apellido es Isaev. 
+
 ## Educación
 
-Mi mujer y yo aprendemos Español juntas.
+Siempre aprendo porque soy programador.  
+Mi mujer y yo aprendemos Español juntas.  
 
 ## Deporte
 

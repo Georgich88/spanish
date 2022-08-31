@@ -4,6 +4,26 @@
 
 Me llamo Jorge. Mi apellido es Isaev.
 
+## ¿Cuántos años tienes?
+
+Tengo treinta y cuatro años
+
+## ¿De dónde eres?
+
+Soy de Rusia, pero ahora vivo en Argentina.  
+Soy de la tierra del mejor vodka y de Yuriy Gagarin.  
+Vivo con mi mujer.
+
+## ¿Hablas español?
+
+Hablo inglés, ruso y español.
+
+## ¿A qué te dedicas?
+
+Trabajo como programador.  
+No canto canciones, no bailo, pero viajo mucho, porque trabajo en la oficina remota.   
+Mi mujer también es programadora.
+
 ## Educación
 
 Siempre aprendo porque soy programador.  
@@ -16,9 +36,16 @@ No corro por la mañana.
 
 ## Comida y bebida
 
-Los fines de semana me gusta comer asada carne y beber vino o cerveza. Nosotros a menudo vamos a restaurantes los 
+Como muchas frutas y verduras, no fumo.
+Los fines de semana me gusta comer asada carne y beber vino o cerveza. Estoy feliz y vio positivamente.
+Nosotros a menudo vamos a restaurantes los
 viernes y sábados. Nosotros no dividimos log gastos, yo casi siempre pago.
 Nunca bebo vino o cerveza durante las horas de trabajo.
+Paso tiempo con mi familia y amigos y cocino muy bien.
+
+## Colores favoritos
+
+Mis colores favoritos son rojo, azul y negro.
 
 ## Mi rutina diaria
 

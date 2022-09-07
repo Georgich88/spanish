@@ -22,6 +22,7 @@ Hablo inglés, ruso y español.
 
 Trabajo como programador.  
 No canto canciones, no bailo, pero viajo mucho, porque trabajo en la oficina remota.   
+Yo tengo un trabajo muy difícil pero me gusta.   
 Mi mujer también es programadora.
 
 ## Educación
@@ -38,8 +39,8 @@ No corro por la mañana.
 
 Como muchas frutas y verduras, no fumo.
 Los fines de semana me gusta comer asada carne y beber vino o cerveza. Estoy feliz y vio positivamente.
-Nosotros a menudo vamos a restaurantes los
-viernes y sábados. Nosotros no dividimos log gastos, yo casi siempre pago.
+Nosotros a menudo vamos a restaurantes los viernes y sábados.  
+Nosotros no dividimos log gastos, yo casi siempre pago.
 Nunca bebo vino o cerveza durante las horas de trabajo.
 Paso tiempo con mi familia y amigos y cocino muy bien.
 
@@ -49,15 +50,15 @@ Mis colores favoritos son rojo, azul y negro.
 
 ## Mi rutina diaria
 
-Normalmente, yo me despierto a las seit de la manana y me levanto en seguida.
-No me gusta acostarme en la cama por much tiempo.
+Normalmente, yo me despierto a las siete y medio de la manana y me levanto en seguida.
+No me gusta acostarme en la cama por mucho tiempo.
 No corro por la mañana.
 Me lavo a las siete y dieciséis.
 
 ### LUNES
 
 El lunes por la mañana a las siete y media me tomo un café.
-Yo y mi mujer estudiamos español a las siete de la tarde.
+El lunes y viernes yo y mi mujer estudiamos español a las diez de la noche.
 
 ### MARTES
 
@@ -77,8 +78,7 @@ A las ocho y media de un paseo por el parque cuando hace fresco.
 ### VIERNES
 
 Yo y mi mujer estudiamos español a las nueve de la mañana.
-El viernes a las diez yo desayuno dos huevos fritos si mi mujer cocina y por la noche a las diaz veo series de
-televisión.
+El viernes a las diez yo desayuno dos huevos fritos si mi mujer cocina y por la noche a las diaz veo series de televisión.
 
 ### SÁBADO
 

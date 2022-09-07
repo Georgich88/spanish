@@ -17,3 +17,7 @@ To have
 
 Tengo la camisa negra.
 Tengo treinta y cuatro años
+Vosotras tenéis un perro dálmata.
+¿Cuántos años tú tienes?
+Manuela siempre tiene buen humor.
+Yo tengo un trabajo muy difícil pero me gusta.

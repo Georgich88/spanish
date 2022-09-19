@@ -42,7 +42,9 @@ Los fines de semana me gusta comer asada carne y beber vino o cerveza. Estoy fel
 Nosotros a menudo vamos a restaurantes los viernes y sábados.  
 Nosotros no dividimos log gastos, yo casi siempre pago.
 Nunca bebo vino o cerveza durante las horas de trabajo.
-Paso tiempo con mi familia y amigos y cocino muy bien.
+Paso tiempo con mi familia y amigos y cocino muy bien.  
+No tengo alergia, pero no gusta el mango.  
+Normalmente como verduras cocinandos y frutas frescas.
 
 ## Colores favoritos
 

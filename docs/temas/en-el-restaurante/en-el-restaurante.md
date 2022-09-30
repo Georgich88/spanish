@@ -20,8 +20,8 @@
 - De primero / para empezar quiero ... De segundo
 
 ## Ejemplo de dialogo
-C - Camarero
-V - Visitante
+C - Camarero  
+V - Visitante  
 C: ¡Buenos días, señor! ¿Ha reservado mesa?  
 V: Sí, reservado una mesa para una persona, para mí.  
 C: ¡Perfecto! Esta es tu mesa, la mesa número cinco.  

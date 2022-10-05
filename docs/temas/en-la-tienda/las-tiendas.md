@@ -69,6 +69,7 @@ En Argentina, en una farmacia puede comprar no solo medicamentos, sino también 
 ## [¿Cuánto GASTO al mes en el SUPERMERCADO en ARGENTINA?](https://www.youtube.com/watch?v=v4x1iTnJOyQ)
 Cuanto cuesta ser un changuito de supermercado en argentina en agosto del dos mil veintidós  
 Que al final del vídeo porque vamos a averiguarlo
-
+Eee, para-para-para-para-para.
+Acción de cracks que mandan todo bien.
 
 

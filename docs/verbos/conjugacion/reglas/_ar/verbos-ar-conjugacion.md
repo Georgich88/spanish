@@ -24,7 +24,7 @@ Cocinar
 
 1. TODO
 
-### Pretérito
+### Pretérito indefinido
 
 | singular             | plural                        |
 |----------------------|-------------------------------|

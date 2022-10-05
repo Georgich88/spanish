@@ -29,7 +29,7 @@ Beber
 5. Mi amiga y yo aprendemos italiano juntas.
 6. Tu perro siempre escondes su comida.
 
-### Pretérito
+### Pretérito indefinido
 
 | singular              | plural                         |
 |-----------------------|--------------------------------|

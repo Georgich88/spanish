@@ -20,7 +20,7 @@ Beber
 | él, ella, usted escribe | ellos, ellas, ustedes beben |
 | vos te escribís         |                             |
 
-### Ejemplo
+#### Ejemplo
 
 1. Pablo y Claudia viven juntos
 2. Mi profesor de literatura nunca admite sus errores.
@@ -29,7 +29,7 @@ Beber
 5. Mañana Federico cumple 30 años.
 6. Yo no abro la puerta a mis vecinos.
 
-### Pretérito
+### Pretérito indefinido
 
 | singular              | plural                         |
 |-----------------------|--------------------------------|

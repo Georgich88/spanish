@@ -11,7 +11,7 @@ To be
 | yo soy             | nosotros somos            |
 | tú eres            | vosotros sois             |
 | él, ella, usted es | ellos, ellas, ustedes son |
-| vos te sos         |                           |
+| vos sos            |                           |
 
 #### Ejemplo
 
@@ -29,7 +29,7 @@ Ustedes son extrovertidos y por eso tienen muchos amigos.
 | yo fui              | nosotros fuimos              |
 | tú fuiste           | vosotros fuisteis            |
 | él, ella, usted fue | ellos, ellas, ustedes fueron |
-| vos te fuiste       |                              |
+| vos fuiste          |                              |
 
 #### Ejemplo
 

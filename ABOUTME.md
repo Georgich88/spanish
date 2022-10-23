@@ -49,8 +49,11 @@ Normalmente como verduras cocinandos y frutas frescas.
 ## Regalos
 Yo recibí un bonito regalo de cumpleaños de mi mujer. 
 Esta fue una mochila italiana; pero esperamos durante mucho tiempo para recibir. 
-La última vez que you di un regalo fue cuando yo di mandíbula nueva a mi mujer.
-Mi gusta dar regalos, pero me gusta más cuando me dan regalos.
+La última vez que you di un regalo fue cuando yo di mandíbula nueva a mi mujer.  
+Mi gusta dar regalos, pero me gusta más cuando me dan regalos.  
+Mi mujer a menudo pregunta: '¿Me darás algo?', yo respondo: 'Sí, mi mujer! ¿Me darás algo a cambio?'  
+
+
 
 ## Colores favoritos
 

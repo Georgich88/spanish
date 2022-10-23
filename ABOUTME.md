@@ -46,6 +46,12 @@ Paso tiempo con mi familia y amigos y cocino muy bien.
 No tengo alergia, pero no gusta el mango.  
 Normalmente como verduras cocinandos y frutas frescas.
 
+## Regalos
+Yo recibí un bonito regalo de cumpleaños de mi mujer. 
+Esta fue una mochila italiana; pero esperamos durante mucho tiempo para recibir. 
+La última vez que you di un regalo fue cuando yo di mandíbula nueva a mi mujer.
+Mi gusta dar regalos, pero me gusta más cuando me dan regalos.
+
 ## Colores favoritos
 
 Mis colores favoritos son rojo, azul y negro.

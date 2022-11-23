@@ -52,6 +52,7 @@
 | presentar                      | to present / to introduce                 |
 | preferir                       | to prefer                                 |
 | permitir                       | to permit / allow                         |
+| poseer                         | to possess / to own                       |
 | q                              |                                           |
 | r                              |                                           |
 | realizar                       | to realize / to accomplish / to carry out |
